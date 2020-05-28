@@ -2,3 +2,4 @@ first com
 second commit
 thir
 new conflict
+conflict
